@@ -29,12 +29,12 @@ Após a execução do código, você verá o resultado do problema de programaç
 
 Resultado Ótimo encontrado!
 Da Bahia para Minas: 200.0
-Da Bahia para o Rio: 150.0
+Da Bahia para o Rio: 150.00000000000003
 Da Bahia para Goiás: 150.0
 De São Paulo para Minas: 0.0
 De São Paulo para o Rio: 200.0
 De São Paulo para Paraná: 300.0
-De São Paulo para Santa Catarina: 100.0
+De São Paulo para Santa Catarina: 100.00000000000001
 De São Paulo para Rio Grande do Sul: 0.0
 De Minas para o Rio: 0.0
 De Minas para Goiás: 0.0
@@ -43,9 +43,10 @@ Distribuidor de Minas deixa de receber: 0.0
 Distribuidor do Rio deixa de receber: 0.0
 Distribuidor de Goiás deixa de receber: 0.0
 Distribuidor do Paraná deixa de receber: 0.0
-Distribuidor de Santa Catarina deixa de receber: 49.9
+Distribuidor de Santa Catarina deixa de receber: 49.999999999999986
 Distribuidor do Rio Grande do Sul deixa de receber: 250.0
 Custo Total: R$ 28000.0
+
 
 
 ## Explicação do código
