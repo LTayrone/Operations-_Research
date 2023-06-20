@@ -27,9 +27,9 @@ python main.py
 
 Após a execução do código, você verá o resultado do problema de programação linear, incluindo a solução ótima encontrada e o custo total. Aqui está um exemplo de resultado:
 
-Resultado Ótimo encontrado!
-Da Bahia para Minas: 200.0
-Da Bahia para o Rio: 150.00000000000003
+Resultado Ótimo encontrado!/
+Da Bahia para Minas: 200.0/
+Da Bahia para o Rio: 150.00000000000003/
 Da Bahia para Goiás: 150.0
 De São Paulo para Minas: 0.0
 De São Paulo para o Rio: 200.0
